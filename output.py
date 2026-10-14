@@ -1,4 +1,5 @@
-﻿def print_results(results):
+﻿# Модуль output. Автор: Диана
+def print_results(results):
     """Печатает результат по каждому массиву.
     results — список bool, номер массива = индекс + 1."""
     print("\nРезультат:")
